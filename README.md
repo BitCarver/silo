@@ -11,3 +11,6 @@ This project will not include any AI features and will not be developed using AI
 
 ## Contributing
 If you feel compelled to contribute to this project with me - feel free to reach out to me at *BitCarverX@gmail.com*
+
+## License
+See LICENSE
